@@ -1,5 +1,6 @@
 {
-	"editor.fontFamily": "Monolisa, Menlo, Monaco, 'Courier New', monospace",
+	"editor.fontFamily": "Monolisa, 'Fira Code',  Menlo, Monaco, 'Courier New', monospace",
 	"workbench.colorCustomizations": {},
-	"editor.tokenColorCustomizations": {}
+	"editor.tokenColorCustomizations": {},
+	"editor.fontSize": 12
 }
