@@ -44,3 +44,13 @@ export async function updateUser({
 		throw new Error(`Failed to create/update the user ${error.message}`);
 	}
 }
+
+export async function fetchUser(userId: string) {
+	try {
+		connectToDB();
+		return await User.findOne({ id: userId });
+		//.populate({path: 'Communities'});
+	} catch (error: any) {
+		throw new Error(`Failed to find user ${error.message}`);
+	}
+}
