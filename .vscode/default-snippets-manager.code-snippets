@@ -1,1 +1,8 @@
-{}
+{
+	"pthn": {
+		"prefix": "pthn",
+		"description": "pthn",
+		"scope": "typescriptreact",
+		"body": ["const pathname = usePathname();"]
+	}
+}
