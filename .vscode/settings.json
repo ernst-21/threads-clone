@@ -1,5 +1,5 @@
 {
-	"editor.fontFamily": "Hack, 'Source Code Pro', Consolas, 'Fira Code',  Monolisa, 'JetBrains Mono',  Monaco, Menlo, 'Courier New', monospace",
+	"editor.fontFamily": "Hack, Monolisa, 'Source Code Pro', Consolas, 'Fira Code', 'JetBrains Mono',  Monaco, Menlo, 'Courier New', monospace",
 	"workbench.colorCustomizations": {},
 	"editor.tokenColorCustomizations": {},
 	"editor.fontSize": 13,
